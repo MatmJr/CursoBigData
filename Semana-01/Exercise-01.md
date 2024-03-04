@@ -29,10 +29,14 @@ Anaconda:
      Terminal: conda activate ./venv
 
 3 - Crie um arquivo chamado README.md
+     Terminal: echo. > README.md
 
 4 - Crie um arquivo chamado .gitignore
 
-    4.1 - Digite na primeira linha do arquivo arquivo venv/
+    4.1 - Terminal: echo. > .gitignore
+    4.2 - Digite na primeira linha do arquivo arquivo venv/
+        Terminal: echo venv/ > .gitignore
 
 5 - Crie um aquivo chamado requiremets.txt
+     Terminal: echo. > requirements.txt
 
