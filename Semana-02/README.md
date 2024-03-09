@@ -1,5 +1,6 @@
 # Aula 02
 
+
 Olá! Ao iniciar um projeto em Python, é fundamental aderir a um conjunto de boas práticas para garantir clareza, eficiência e facilidade de uso. Essas práticas incluem:
 
 - A inclusão de um arquivo README.md no projeto, que deve conter uma introdução ao projeto, uma descrição detalhada do que foi desenvolvido e instruções passo a passo para configurar o ambiente necessário para rodar o projeto.
@@ -18,17 +19,17 @@ No terminal cole os comandos abaixo para a criação, ativação do ambiente vir
 python -m venv venv && .\venv\Scripts\activate && pip install -r requirements.txt
 ``` 
 
-**Observação:** Criei um Script para configutação automática no Windows. Seguir os seguintes passos:
+<details>
+  <summary>EXTRA: Script para configutação automática no Windows</summary>
+  
+    - Baixar os arquivos setup.ps1 e requirements.txt na pasta que você criou para a aula.
 
-- Baixar os arquivos setup.ps1 e requirements.txt na pasta que você criou para a aula.
+      - Abrir o VSCode na pasta.
 
-- Abrir o VSCode na pasta.
-
-- Executar o Command Prompt:
-
-    ```bash
-        .\setup.ps1
-    ```
+      - Executar no Command Prompt:
+              .\setup.ps1  
+  
+</details>
 
 <details>
   <summary>Instalando Dependências (Linux/Mac)</summary>
@@ -39,8 +40,6 @@ python -m venv venv && .\venv\Scripts\activate && pip install -r requirements.tx
     
   
 </details>
-
-
 
 ## Dataset da Aula
 
@@ -56,3 +55,9 @@ O conjunto de dados original:
 ```url
 https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml
 ```
+
+## Começando a aula
+
+Após terminar a configuração do ambiente baixe o arquivo Aula02.ipynb na pasta criada para a aula e vá seguindo as instruções.
+
+**BONS ESTUDOS!**
