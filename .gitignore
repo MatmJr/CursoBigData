@@ -1,4 +1,3 @@
-
 venv/
-
-Semana-02/data
+.venv/
+data/
