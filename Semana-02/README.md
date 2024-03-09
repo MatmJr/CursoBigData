@@ -36,9 +36,8 @@ python -m venv venv && .\venv\Scripts\activate && pip install -r requirements.tx
   
     Criação e ativação do ambiente virtual
     
-            python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt
+            python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt
     
-  
 </details>
 
 ## Dataset da Aula
