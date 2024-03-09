@@ -77,3 +77,5 @@ Windows
     5.1 Importe o pandas como pd
     5.2 Crie a variável url = "https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv"
     5.3 Carregue o conjunto de dados da url com o método read_csv do pandas em uma variável chamada data.
+
+**BONS ESTUDOS!**
