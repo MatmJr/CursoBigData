@@ -31,7 +31,7 @@ python -m venv venv && .\venv\Scripts\activate && pip install -r requirements.tx
     ```
 
 <details>
-  <summary>Instalando Dependências (Linux)</summary>
+  <summary>Instalando Dependências (Linux/Mac)</summary>
   
     Criação e ativação do ambiente virtual
     
