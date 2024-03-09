@@ -10,7 +10,10 @@ Olá! Ao iniciar um projeto em Python, é fundamental aderir a um conjunto de bo
 
 ### Instalando Dependências (**Windows**)
 
-Criação e ativação do ambiente virtual
+Crie uma pasta chamada BigData, clique com o botão do lado direito e selecione a opção abrir no terminal. 
+
+No terminal cole os comandos abaixo para a criação, ativação do ambiente virtual e instalação das dependências.
+
 ```bash
 python -m venv venv && .\venv\Scripts\activate && pip install -r requirements.txt
 ``` 
