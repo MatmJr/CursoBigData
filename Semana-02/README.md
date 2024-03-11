@@ -7,6 +7,12 @@ Olá! Ao iniciar um projeto em Python, é fundamental aderir a um conjunto de bo
 
 - A criação de um arquivo chamado requirements.txt, que lista todas as bibliotecas externas e suas respectivas versões utilizadas no projeto. Esse arquivo deve garantir que qualquer pessoa ou sistema que tente executar o projeto possa instalar as dependências necessárias.
 
+## Acesso ao Colab
+
+O conteúdo da aula também pode ser acessado pelo link **usando uma conta do Google**: https://drive.google.com/file/d/1gnjeeHq4IkUXjfTI53mPASBPDxcxKcYM/view?usp=sharing
+
+**Atenção:** Escolha a opção **Copiar para o Drive** para começar os estudos.
+
 ## Configuração do Ambiente
 
 ### Instalando Dependências (**Windows**)
