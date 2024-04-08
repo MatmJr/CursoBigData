@@ -1,4 +1,4 @@
-# Aula 06
+# Aula 05
 
 Olá! Ao iniciar um projeto em Python, é fundamental aderir a um conjunto de boas práticas para garantir clareza, eficiência e facilidade de uso. Essas práticas incluem:
 
@@ -8,7 +8,7 @@ Olá! Ao iniciar um projeto em Python, é fundamental aderir a um conjunto de bo
 
 ## Acesso ao Colab
 
-O conteúdo da aula também pode ser acessado pelo link **usando uma conta do Google**: https://drive.google.com/file/d/1kBwyz42uVqt3KfS6mk-MIceQAs2yP4ra/view?usp=sharing
+O conteúdo da aula também pode ser acessado pelo link **usando uma conta do Google**: https://drive.google.com/file/d/1yPfgPuNyl8OZWdn-fw-_G8dKil5gNcwI/view?usp=sharing
 
 **Atenção:** Escolha a opção **Copiar para o Drive** para começar os estudos.
 
@@ -50,7 +50,7 @@ python -m venv venv && .\venv\Scripts\activate && pip install -r requirements.tx
 O dataset da aula de hoje será retirado do link:
 
 ```url
-https://drive.google.com/uc?id=1inLJ0QY0vOhD_2CKujdLEUvF4MnPbAi5
+https://drive.google.com/file/d/1kcH4xji_A1_FCgHoDOf6eu9EYcX0blyP/view?usp=sharing
 ```
 
 Após terminar a configuração do ambiente baixe o arquivo Aula02.ipynb na pasta criada para a aula e vá seguindo as instruções.
