@@ -1,4 +1,4 @@
-# Aula 05
+# Aula 06
 
 Olá! Ao iniciar um projeto em Python, é fundamental aderir a um conjunto de boas práticas para garantir clareza, eficiência e facilidade de uso. Essas práticas incluem:
 
