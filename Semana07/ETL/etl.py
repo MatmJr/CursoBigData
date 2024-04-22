@@ -5,7 +5,7 @@ import json
 symbols = ["USDBRL=X", "EURBRL=X", "USDEUR=X"]
 
 # Defina o período de busca (1 ano)
-start_date = "2023-04-16"
+start_date = "2019-04-16"
 end_date = "2024-04-10"
 
 # Crie um dicionário vazio para armazenar os dados
