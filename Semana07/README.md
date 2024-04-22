@@ -8,7 +8,7 @@ Olá! Ao iniciar um projeto em Python, é fundamental aderir a um conjunto de bo
 
 ## Acesso ao Colab
 
-O conteúdo da aula também pode ser acessado pelo link **usando uma conta do Google**: https://drive.google.com/file/d/1yPfgPuNyl8OZWdn-fw-_G8dKil5gNcwI/view?usp=sharing
+O conteúdo da aula também pode ser acessado pelo link **usando uma conta do Google**: https://drive.google.com/file/d/1blasB4SzlLOvoeLgK9-RxrPGy_d2EH88/view?usp=sharing
 
 **Atenção:** Escolha a opção **Copiar para o Drive** para começar os estudos.
 
@@ -24,17 +24,6 @@ No terminal cole os comandos abaixo para a criação, ativação do ambiente vir
 python -m venv venv && .\venv\Scripts\activate && pip install -r requirements.txt
 ``` 
 
-<details>
-  <summary>EXTRA: Script para configutação automática no Windows</summary>
-  
-    - Baixar os arquivos setup.ps1 e requirements.txt na pasta que você criou para a aula.
-
-      - Abrir o VSCode na pasta.
-
-      - Executar no Command Prompt:
-              .\setup.ps1  
-  
-</details>
 
 <details>
   <summary>Instalando Dependências (Linux/Mac)</summary>
@@ -45,14 +34,5 @@ python -m venv venv && .\venv\Scripts\activate && pip install -r requirements.tx
     
 </details>
 
-## Dataset da Aula
-
-O dataset da aula de hoje será retirado do link:
-
-```url
-https://drive.google.com/file/d/1kcH4xji_A1_FCgHoDOf6eu9EYcX0blyP/view?usp=sharing
-```
-
-Após terminar a configuração do ambiente baixe o arquivo Aula02.ipynb na pasta criada para a aula e vá seguindo as instruções.
 
 **BONS ESTUDOS!**
