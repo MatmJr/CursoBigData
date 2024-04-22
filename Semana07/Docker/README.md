@@ -1,8 +1,8 @@
 ### Configuração do Mongo e Docker
 
-1. Nosso primeiro passo é garantir a instalação do docker no computador.
+1. Nosso primeiro passo é garantir a instalação do docker desktop no computador (https://www.docker.com/products/docker-desktop/).
 
-2.  Obter a imagem do Mongo que será o molde para criarmos nossos containers. Para isto, executamos o comando abaixo.
+2.  Obter a imagem do Mongo que será o molde para criarmos nossos containers. Para isso, executamos o comando abaixo.
 
 ```(Bash)
 docker pull mongo
