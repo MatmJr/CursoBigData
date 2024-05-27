@@ -3,3 +3,4 @@ venv/
 data/
 *.db
 Arquivo de testes
+file.csv
